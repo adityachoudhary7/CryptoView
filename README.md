@@ -20,11 +20,13 @@ CryptoView is a versatile Python and Power BI project for analyzing cryptocurren
 
 
 ### PowerBI 
-![CryptoView_001](https://github.com/adityachoudhary7/CryptoView/assets/88120344/fabbdfe3-1ffd-47f7-a14c-467eb132e497)
-![CryptoView_002](https://github.com/adityachoudhary7/CryptoView/assets/88120344/9807f58f-23a7-464f-8b48-db8623fdb6ae)
-![CryptoView_003](https://github.com/adityachoudhary7/CryptoView/assets/88120344/4504140e-b349-4b81-9ca2-0c4d70024cb9)
-![CryptoView_004](https://github.com/adityachoudhary7/CryptoView/assets/88120344/a783ff28-fd45-4bfd-a979-7bfa5515af0d)
-![CryptoView_005](https://github.com/adityachoudhary7/CryptoView/assets/88120344/87654938-5142-43c6-9167-8f14698e6c24)
+![CryptoView_page-0001](https://github.com/adityachoudhary7/CryptoView/assets/88120344/b1c0dae8-9598-4717-9167-0b46f424f591)
+![CryptoView_page-0002](https://github.com/adityachoudhary7/CryptoView/assets/88120344/90cb95cc-2504-4af3-91fb-855e97f7ff9f)
+![CryptoView_page-0003](https://github.com/adityachoudhary7/CryptoView/assets/88120344/58659dab-57d9-44c8-bc32-faa60428a568)
+![CryptoView_page-0004](https://github.com/adityachoudhary7/CryptoView/assets/88120344/c439b318-c530-43aa-b70b-be6570a6a6a8)
+![CryptoView_page-0005](https://github.com/adityachoudhary7/CryptoView/assets/88120344/778f69fa-f0bb-46fb-b105-10669880288e)
+
+
 
 
 
