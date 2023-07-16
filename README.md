@@ -13,6 +13,21 @@ CryptoView is a versatile Python and Power BI project for analyzing cryptocurren
   - Forecasts: Presents predictions for the next 24 Months with a confidence level of 95%. Users can explore forecasts for volume, market cap, open price, and close price. A slicer allows switching between these metrics.
 - Navigation Bar: The Power BI dashboard includes a navigation bar on the left side for easy navigation between different pages.
 
+## Screenshots
+
+### Jupyter Notebook
+![Jupyter Notebook_page-0001](https://github.com/adityachoudhary7/CryptoView/assets/88120344/ca817a6b-2e5c-45af-8622-f89ce8bb386d)
+
+
+### PowerBI 
+![CryptoView_001](https://github.com/adityachoudhary7/CryptoView/assets/88120344/fabbdfe3-1ffd-47f7-a14c-467eb132e497)
+![CryptoView_002](https://github.com/adityachoudhary7/CryptoView/assets/88120344/9807f58f-23a7-464f-8b48-db8623fdb6ae)
+![CryptoView_003](https://github.com/adityachoudhary7/CryptoView/assets/88120344/4504140e-b349-4b81-9ca2-0c4d70024cb9)
+![CryptoView_004](https://github.com/adityachoudhary7/CryptoView/assets/88120344/a783ff28-fd45-4bfd-a979-7bfa5515af0d)
+![CryptoView_005](https://github.com/adityachoudhary7/CryptoView/assets/88120344/87654938-5142-43c6-9167-8f14698e6c24)
+
+
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
